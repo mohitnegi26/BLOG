@@ -1,0 +1,7 @@
+.blog-app {
+  background-color: #f8f9fa;
+}
+
+.modal-content textarea {
+  resize: vertical;
+}
